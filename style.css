@@ -1,0 +1,193 @@
+
+.search {
+  height: 50px;
+  width: 100%;
+}
+
+.searchbox img{
+  width:15px;
+}
+
+.searchbox {
+  display: inline-block;
+  width: 38%;
+  padding: 10px 0;
+  border-bottom: lightgrey 1px solid;
+}
+
+.right-search {
+  display: inline-block;
+  width: 38%;
+  text-align: right;
+  padding: 10px 0;
+  border-bottom: lightgrey 1px solid;
+}
+
+.right-search img {
+  width: 18px;
+  padding-bottom: 60
+}
+
+.app-box {
+  display:inline-block;
+  height: 50px;
+  width: 50px;
+  vertical-align: top;
+  text-align: center;
+  line-height: 50px;
+  border-left: lightgrey solid 1px;
+
+
+}
+
+#apps {
+  width: 20px;
+  height: 20px;
+
+}
+
+#plus {
+  width: 50px;
+}
+
+.query {
+  display: inline-block;
+  text-align: left;
+}
+
+
+.logo{
+  display: inline-block;
+  width: 19%;
+  padding: 10px 0;
+  border-right: lightgrey 1px solid;
+  text-align: center;
+
+}
+.logo img{
+  width: 85px;
+
+}
+
+
+
+.username {
+  display: inline-block;
+  text-align: left;
+  font-size: 14px;
+  font-family: times;
+  padding-right: 50px;
+
+
+
+}
+
+
+
+
+
+
+
+
+.sidenav {
+  display: inline-block;
+  height: 650px;
+  width: 19%;
+  background-color: #111;
+  color:white;
+  text-decoration: none;
+  overflow-x: hidden;
+  padding-top: 20px;
+  vertical-align: top;
+}
+
+a{
+  color:grey;
+  text-decoration: none;
+  line-height: 2.3;
+
+}
+
+.custom {
+  color: white;
+}
+
+ol{
+  list-style-type: none;
+  padding-top: 70px;
+  padding-left: 70px;
+  }
+
+li: nth-of-type: (1){
+  color:white;
+}
+
+.content {
+  margin-top: 23px;
+}
+
+.web{
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.centercol {
+display: inline-block;
+  height: 650px;
+  width: 38%;
+  color:black;
+  overflow-x: hidden;
+  padding: 20px 20px 20px 20px;
+  text-align: justify;
+  vertical-align: top;
+}
+
+
+
+span {
+  color: #2571b8;
+  padding-bottom: 25px;
+}
+
+.picture{
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+.rightcol{
+  display: inline-block;
+  height: 650px;
+  width: 38%;
+  color:black;
+  overflow-x: hidden;
+  padding-top: 20px;
+  vertical-align: top;
+}
+
+.map{
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
+.lion{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 60px;
+}
+
+.lion img{
+  width: 90%;
+}
+
+.zoomap {
+  text-align: center;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 90%
+
+
+
+
+}
