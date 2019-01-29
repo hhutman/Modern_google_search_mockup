@@ -50,6 +50,16 @@
   width: 50px;
 }
 
+.row{
+  display: flex;
+  flex: 1;
+
+}
+
+
+
+
+
 .query {
   display: inline-block;
   text-align: left;
@@ -97,9 +107,54 @@
   color:white;
   text-decoration: none;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 0px;
   vertical-align: top;
+  border-bottom: 5px solid red;
+
+
 }
+
+span {
+  display: flex;
+
+
+}
+
+
+#blue {
+
+  background-color: blue;
+  height: 6px;
+  width: 25%;
+
+}
+
+#red {
+
+  background-color: red;
+  height: 6px;
+  width: 25%;
+
+}
+
+#yellow {
+
+  background-color: yellow;
+  height: 6px;
+  width: 25%;
+
+}
+#green {
+
+  background-color: green;
+  height: 5px;
+  width: 25%;
+
+}
+
+
+
+
 
 a{
   color:grey;
